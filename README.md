@@ -59,10 +59,6 @@ CREATE TABLE libros (
 );
 ```
 
-## Captura del programa en uso
-
-*(Opcional: agrega aquí una captura de pantalla)*
-
 ```
 ==================================
    📚 BIBLIOTECA PERSONAL
